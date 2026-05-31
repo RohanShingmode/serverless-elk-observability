@@ -1,0 +1,2 @@
+{"timestamp": "2026-06-01T00:01:00Z", "level": "ERROR", "service": "payment-gateway", "message": "Third-party connection timeout error"}
+{"timestamp": "2026-06-01T00:01:15Z", "level": "INFO", "service": "user-authentication", "message": "Token generated for user session"}
